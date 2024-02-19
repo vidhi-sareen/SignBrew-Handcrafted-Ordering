@@ -1,4 +1,8 @@
-![HandSign Coffee Ordering App](https://example.com/handsign-coffee-app.jpg)
+<div style="text-align:center">
+
+  ![HandSign Coffee Ordering App](https://github.com/vidhi-sareen/SignBrew-Handcrafted-Ordering/blob/master/Screenshot%202024-02-19%20192848.png)
+
+</div>
 
 # HandSign Coffee Ordering App
 
